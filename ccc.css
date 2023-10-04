@@ -1,0 +1,46 @@
+header{
+    float: left;
+    padding: 45px;
+    margin-left: 160px;
+
+}
+.logo{
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0 0 0 50px ;
+    margin-top: -50px;
+}
+.lista{
+    float: center;
+    margin:  0 20px 0 20px;
+    padding: 0;
+    display: flex;
+    
+}
+.uno, .dos, .tres, .cuatro, .cinco, .seis{
+    float: left;
+    margin: 0 20px 0 20px;
+    list-style-type: none;
+}
+.catalogo{
+    float: left;
+    margin-left: 230px;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.catalogo1{
+    float: left;   
+}
+.catalogo2{
+    float: left
+    
+}
+.pieza1, .pieza2, .pieza3, .pieza4, .pieza5, .pieza6{
+    float: left;    
+    list-style-type: none;
+    margin: 0 30px 0 30px;
+    border: 1px solid;
+    width: 210px;
+    height: 300px;
+}

@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(228, 197, 214);
+}
+
+header{
+    float: left;
+    padding: 45px;
+    margin-left: 160px;
+
+}
+.logo{
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0 0 0 50px ;
+    margin-top: -50px;
+}
+.lista{
+    float: center;
+    margin:  0 20px 0 20px;
+    padding: 0;
+    display: flex;
+    
+}
+.uno, .dos, .tres, .cuatro, .cinco, .seis{
+    float: left;
+    margin: 0 20px 0 20px;
+    list-style-type: none;
+}
+.seis{
+    margin-top: -20px;
+}
+.tr{
+    text-decoration: none;
+    margin-top: -30px;
+}
+.contenedor{
+    float: left;
+    margin: 30px 0 0 320px;
+    padding: 0 0 0 0;
+}
+.parrafo1{
+    width: 400px;
+}
+.button{
+    border: 1px solid palevioletred;
+    background-color: #f7f786;
+    box-shadow: rgb(243, 15, 156);
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.img1{
+    float: left;
+    margin: -150px 0 0 400px;
+    
+}
+.contenedor2{
+    float: left;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.tr12{
+    margin-left: 360px;
+    margin-top: -300px;
+}
+.parrafo2{
+    width: 400px;
+    margin-left: 360px;
+}
+.catalogo{
+    float: left;
+    margin-left: 230px;
+    margin-top: 200px;
+    text-align: center;
+
+}
+.catalogo1{
+    float: left;   
+}
+.catalogo2{
+    float: left
+    
+}
+.pieza1, .pieza2, .pieza3, .pieza4, .pieza5, .pieza6{
+    float: left;    
+    list-style-type: none;
+    margin: 0 30px 0 30px;
+    border: 0 solid;
+    width: 210px;
+    height: 260px;
+}
+.contenedor3{
+    float: left;
+    margin-top: 50px;
+}
+.parrafo3{
+    width: 400px;
+    margin-top: 180px;
+    margin-left: 90px;
+}
+.button2{
+    margin-right: 280px;
+    border: 1px solid palevioletred;
+    background-color: #f7f786;
+    box-shadow: rgb(243, 15, 156);
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.img2{
+    margin-left: 490px;
+    margin-top: -200px;
+}
+.contenedor4{
+    float: left;
+    margin-left: 250px;
+    margin-top: 120px;
+    
+}
+h4{
+    font-size: 20px;
+    padding-top: -200px;
+    margin-right: 260px;
+    
+}
+.parrafo4{
+    width: 300px;
+}
+.img3{
+    margin-left: 350px;
+    margin-top: -130px;
+}
+footer{
+    float: left;
+    display: flex;
+    margin-top: -300px;
+    
+}
+.chef{
+    margin: 0;
+    padding: 0;
+}
+.pie-pagina{
+    display:flex;
+    margin-top: 300px;
+}
+
+.p1, .p2, .p3, .p4{
+    float: left;
+    margin: 0 40px 0 40px;
+    list-style-type: none;
+    border: 0 solid; 
+    height: 30px;  
+}
+.p1{
+    margin-top: 30px;
+}
+.p2, .p3, .p4{
+    margin-top: 40px;
+}
